@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 To reach me:
 
 <a href="https://www.linkedin.com/in/tanya-jagyasi-127928143/">
-  <img align="left" alt="Tanya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Tanya's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/tanyajagyasi">
   <img align="left" alt="Tanya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/awesome._.whisper/">
-  <img align="left" alt="Tanya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Tanya's Instagram" width="22px" src="https://github.com/tanyajagyasi/TanyaJagyasi/blob/main/svgs/instagram-2016-logo-svgrepo-com.svg" />
 </a>
