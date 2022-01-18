@@ -51,6 +51,3 @@ To reach me:
 <a href="https://www.instagram.com/awesome._.whisper/">
   <img align="left" alt="Tanya's Instagram" width="22px" src="https://github.com/tanyajagyasi/TanyaJagyasi/blob/main/svgs/instagram-2016-logo-svgrepo-com.svg" />
 </a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqVNkNkgPJlRTmbPrKVVMnGvfBHjRxtWQnkClDdjXwkKKGRBKMmCvKfnHtncWSPMGMdRvq">
-  <img align="left" alt="Tanya's Gmail" width="22px" src="https://github.com/tanyajagyasi/TanyaJagyasi/blob/main/svgs/google-gmail-svgrepo-com.svg"
-</a>
