@@ -10,11 +10,11 @@
 <h2> Skills </h2>
 some of the major technologies that I have worked on in the past:
 
-- Python,R,C,C++
-- Html,CSS,JavaScript,Xml
+- Python,R,C,C++,SQL
+- Html,CSS,Xml,Bootstrap
 - Databases: MySql,Postgresql
 - Framework: Joomla,Odoo
-- Tools: VS Code,Jupyter,R Studio,Google Collab,PhpMyAdmin,Ubuntu
+- Tools: VS Code,Jupyter,R Studio,Google Collab,PhpMyAdmin,Ubuntu,PySpark,PgAdmin
 
 <h2> Interests </h2>
 My Major Interests are in:
@@ -24,12 +24,15 @@ My Major Interests are in:
 - SAS
 - Databases
 - Google cloud
+- EDA
+- Big Data Processing
 
 Other Interests are:
 - Classical vocals
 - Playing instruments like guitar,harmonium
 - Swimming
 - Yoga
+- Sports like Basketball, Badminton
 <!--
 **tanyajagyasi/TanyaJagyasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
