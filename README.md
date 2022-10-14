@@ -10,7 +10,7 @@
 <h2> Skills </h2>
 some of the major technologies that I have worked on in the past:
 
-- Python,R,C,C++,SQL
+- Python,C,C++,SQL
 - Html,CSS,Xml,Bootstrap
 - Databases: MySql,Postgresql
 - Framework: Joomla,Odoo
